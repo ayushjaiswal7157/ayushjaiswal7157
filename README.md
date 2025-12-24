@@ -1,4 +1,6 @@
-## Hi there 👋
+## ayushjaiswal7157
+This is my first repository.
+Author - Ayush Kumar Jaiswal
 
 <!--
 **ayushjaiswal7157/ayushjaiswal7157** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
